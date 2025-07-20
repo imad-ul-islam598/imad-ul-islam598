@@ -1,11 +1,11 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&text=I'm%20IMAD%20UL%20ISLAM&fontSize=80&color=0:20ccf7,100:930bb5&animation=fadeIn&stroke=5358e6" alt="venom-banner" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&text=I'm%20IMAD%20UL%20ISLAM&fontSize=80&color=0:000000,60:1a2121&animation=fadeIn&stroke=ffc20d" alt="venom-banner" />
 </p>
 
 <!-- Developer Titles -->
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=40&pause=1000&color=ffc20d&center=true&vCenter=true&width=600&lines=Fullstack+Web+Developer;PYTHON+Developer;Exploring+AI+and+Agentic+AI;Passionate+about+Tech+Innovation;Building+Future-ready+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=40&pause=1000&color=ffc20d&center=true&vCenter=true&width=600&lines=Fullstack+Web+Developer;PYTHON+Developer;Exploring+AI+and+Agentic+AI;Building+Future-ready+Solutions" alt="Typing SVG" />
 </p>
 
 <!-- Profile views -->
@@ -82,7 +82,7 @@ My goal is to merge the power of AI with real-world development to create meanin
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=imad-ul-islam598&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=imad-ul-islam598&theme=dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=imad-ul-islam598&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imad-ul-islam598&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
@@ -91,6 +91,12 @@ My goal is to merge the power of AI with real-world development to create meanin
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=imad-ul-islam598&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=imad-ul-islam598&icon=0&color=5)](https://visitcount.itsvg.in)
+<!-- Pc man Game Repo View -->
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ausafulislam/ausafulislam/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ausafulislam/ausafulislam/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ausafulislam/ausafulislam/output/pacman-contribution-graph.svg">
+</picture>
+</div>
 
