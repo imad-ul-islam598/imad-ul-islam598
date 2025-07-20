@@ -35,21 +35,12 @@ My goal is to merge the power of AI with real-world development to create meanin
 <img src="https://skillicons.dev/icons?i=nodejs,express,py,django"/>
 </a> </p>
 
-<!-- AI Tools -->
-### AI & Automation Tools
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![Chainlit](https://img.shields.io/badge/Chainlit-3333FF?style=for-the-badge)
-![n8n](https://img.shields.io/badge/n8n-FE6C3B?style=for-the-badge&logo=n8n&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
-
 <!-- Designing Tools -->
 ### Designing & UI/UX
 <p align="left"> 
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=figma,ai,ps,xd"/>
 </a> 
-  
 <a href="https://www.adobe.com/products/indesign.html" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_InDesign_CC_icon.svg" alt="InDesign" width="49" height="48"/>
 </a> </p>
@@ -59,8 +50,32 @@ My goal is to merge the power of AI with real-world development to create meanin
 <p align="left"> 
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,threejs"/>
+</a>
+  <a href="https://greensock.com/gsap/" title="GSAP"><img src="https://github.com/get-icon/geticon/raw/master/icons/gsap.svg" alt="GSAP" width="55px" height="50px"></a>
+</p>
+
+<!-- Databases -->
+### Databases
+<p align="left"> 
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase"/>
 </a> </p>
 
+<!-- AI Tools -->
+### AI & Automation Tools
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![Chainlit](https://img.shields.io/badge/Chainlit-3333FF?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-FE6C3B?style=for-the-badge&logo=n8n&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+
+<!-- Others Tools -->
+### Others Tools and Packages
+<p align="left"> 
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,sass,wordpress,codepen,redux,npm,opencv,pytorch"/>
+</a> 
+</p>
 
 
 <!--Other Part-->
