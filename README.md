@@ -85,6 +85,25 @@ My goal is to merge the power of AI with real-world development to create meanin
 ![](https://nirzak-streak-stats.vercel.app/?user=imad-ul-islam598&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imad-ul-islam598&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<!-- Edit by GPT -->
+<h2 align="center">📊 GitHub Stats (Animated)</h2>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=imad-ul-islam598&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=imad-ul-islam598&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imad-ul-islam598&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imad-ul-islam598&theme=radical&hide_border=false)
+
+
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=imad-ul-islam598&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
