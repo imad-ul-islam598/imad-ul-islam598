@@ -176,30 +176,17 @@ My goal is to merge the power of AI with real-world development to create meanin
 
 
 <!-- Edit by GPT -->
-<h2 align="center">📊 GitHub Stats</h2>
-
+# 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imad-ul-islam598&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="animation: fadeIn 2s ease-in-out; width: 48%; display: inline-block; margin: 0 1%;" />
-
-  <img src="https://nirzak-streak-stats.vercel.app/?user=imad-ul-islam598&theme=dark&hide_border=false" alt="GitHub Streak" style="animation: fadeIn 2.2s ease-in-out; width: 48%; display: inline-block; margin: 0 1%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imad-ul-islam598&rank_icon=github&text_bold=false&show_icons=true&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imad-ul-islam598&theme=dark&hide_border=false&layout=donut" width="35%" alt="Top Languages Pie Chart" />
 </div>
 
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imad-ul-islam598&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="animation: fadeIn 2.4s ease-in-out; width: 60%;" />
-</div>
-
-<!-- Optional: Add basic fadeIn animation in Markdown using <style> -->
-<style>
-@keyframes fadeIn {
-  0% { opacity: 0; transform: translateY(20px); }
-  100% { opacity: 1; transform: translateY(0); }
-}
-</style>
 
 
 
+
+<!-- Activity Graph -->
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imad-ul-islam598&theme=radical&hide_border=false)
 
 
