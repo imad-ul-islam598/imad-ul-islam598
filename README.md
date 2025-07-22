@@ -203,7 +203,7 @@ My goal is to merge the power of AI with real-world development to create meanin
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ausafulislam/ausafulislam/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ausafulislam/ausafulislam/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ausafulislam/ausafulislam/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/imad-ul-islam598/imad-ul-islam598/output/pacman-contribution-graph.svg">
 </picture>
 </div>
 
